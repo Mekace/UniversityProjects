@@ -32,5 +32,5 @@ A mobile-friendly, responsive single-page link hub inspired by Linktree to conso
 ---
 
 ## 📬 Contact
-* **GitHub:** [@KULLANICI_ADIN](https://github.com/mekace)
+* **GitHub:** [@mekace](https://github.com/mekace)
 * **LinkedIn:** [Mehmet Efe Çelik](https://linkedin.com/in/mehmet-efe-%C3%A7elik-15a714299)
