@@ -8,7 +8,7 @@ A centralized archive of practical coursework, mini-projects, and laboratory exe
 
 | Category / Course | Project Name | Tech Stack | Live / Demo | Source Code |
 | :--- | :--- | :--- | :--- | :--- |
-| **Web Development** | Personal Link Tree | `HTML5`, `CSS3`, `Font Awesome` | [Live Demo](https://KULLANICI_ADIN.github.io/REPO_ADIN/hafta-1/) | [View Code](./hafta-1/) |
+| **Web Development** | Personal Link Tree | `HTML5`, `CSS3`, `Font Awesome` | [Live Demo](https://mekace.github.io/UniversityProjects/Site/) | [View Code](https://github.com/Mekace/UniversityProjects/tree/2c81680411d03edd1fcc5f34f8cba8d108d9694f/Site) |
 
 ---
 
